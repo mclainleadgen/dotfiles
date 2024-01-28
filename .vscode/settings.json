@@ -1,1 +1,34 @@
-{}
+{
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.autoClosingBrackets": "always",
+  "prettier.singleQuote": true,
+  "editor.inlayHints.enabled": "off",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "terminal.integrated.fontSize": 16,
+  "react-native-tools.showUserTips": false,
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "workbench.colorTheme": "oh-lucy",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.sortOrder": "filesFirst",
+  "window.zoomLevel": 2,
+  "reactSnippets.settings.importReactOnTop": false,
+  "prettier.jsxSingleQuote": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.preferences.importModuleSpecifier": "non-relative"
+}
