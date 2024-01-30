@@ -1,4 +1,5 @@
 {
+  "recommendations":[
   "dsznajder.es7-react-js-snippets",
   "dbaeumer.vscode-eslint",
   "VisualStudioExptTeam.vscodeintellicode",
@@ -12,5 +13,5 @@
   "Prisma.prisma",
   "Prisma.prisma-insider",
   "bradlc.vscode-tailwindcss",
-  "Postman.postman-for-vscode"
+  "Postman.postman-for-vscode"]
 }
